@@ -11,6 +11,7 @@ namespace Testes
         static void Main(string[] args)
         {
             Console.WriteLine("teste");
+            Console.ReadKey();
         }
     }
 }
